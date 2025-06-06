@@ -66,7 +66,7 @@ Hey, that's me! Gouranga Das Samrat. You can find me around the web here:
 
 [![GitHub](https://img.shields.io/badge/GitHub-GourangaDasSamrat-blue?style=for-the-badge&logo=github)](https://github.com/GourangaDasSamrat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gouranga%20Das%20Samrat-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gouranga-das-samrat)
-[![Portfolio](https://img.shields.io/badge/Portfolio-gourangadas.netlify.app-FF69B4?style=for-the-badge&logo=netlify)](https://gourangadas.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gouranga-das.netlify.app-FF69B4?style=for-the-badge&logo=netlify)](https://gourangadas.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Email-gouranga.das.khulna@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:gouranga.das.khulna@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-gourangadassamrat-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/gourangadassamrat/)
 [![CodePen](https://img.shields.io/badge/CodePen-gouranga--das--samrat-black?style=for-the-badge&logo=codepen)](https://codepen.io/gouranga-das-samrat)
